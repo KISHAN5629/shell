@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@module-federation/nextjs-mf": "^7.0.2",
+    "aws-rum-web": "^1.14.0",
     "next": "13.4.9",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "webpack": "^5.88.1"
   }
 }
